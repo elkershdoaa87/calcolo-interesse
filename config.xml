@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.crt.app"
+    versionCode = "10"
+    version     = "1.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>App Calcolo Interesse</name>
+
+  <description>
+     App per calcolare l'interesse semplice
+  </description>
+
+  <author  email="elkersh.doaa@canossamilano.org">
+      Doaa El Kersh
+  </author>
+<!-- Icone per Android e iOs -->
+	<icon src="icona.png" platform="android" qualifier="ldpi" />
+	<icon src="icona.png" platform="android" qualifier="mdpi" />
+	<icon src="icona.png" platform="android" qualifier="hdpi" />
+
+
+	<icon src="icona.png" platform="android" qualifier="ldpi" />
+	<icon src="icona.png" platform="android" qualifier="mdpi" />
+	<icon src="icona.png" platform="android" qualifier="hdpi" />
+</widget>
